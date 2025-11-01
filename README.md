@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Paulo Moreira Damasceno</h1>
+<h1 align="center">Hi , I'm Pedro Paulo Moreira Damasceno</h1>
 <h3 align="center">Data Engineer | Python & SQL | AWS | Docker | Airflow | Power BI</h3>
 
 - 🔭 I’m currently working on [Data Lakehouse Completo: CoinGecko ETL (Airflow, AWS Glue, PostgreSQL DW)](https://github.com/pedropmoreira/crypto-aws-etl-pipeline)
